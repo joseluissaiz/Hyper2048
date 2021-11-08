@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="fondo">#FFF6E6</color>
+    <color name="fondoTablero">#D5CCC6</color>
+    <color name="tableroSombra">#A39C98</color>
+    <color name="bordesTablero">#8E846F</color>
+    <color name="hyper">#49CAC5</color>
+    <color name="casilla">#888888</color>
+    <color name="ficha2">#C8CED5</color>
+    <color name="ficha4">#A5C1EA</color>
+    <color name="ficha8">#E4AA56</color>
+    <color name="ficha16">#E29561</color>
+    <color name="ficha32">#E27B61</color>
+    <color name="ficha64">#E26161</color>
+    <color name="ficha128">#E2D561</color>
+    <color name="ficha256">#6500F3</color>
+    <color name="ficha512">#CA4FC4</color>
+    <color name="ficha1024">#A661E2</color>
+    <color name="fichaDefault">#BCE8E3</color>
+    <color name="numeroFichaOscuro">#35477A</color>
+
+
+</resources>
